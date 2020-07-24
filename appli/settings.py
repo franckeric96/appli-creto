@@ -25,7 +25,7 @@ SECRET_KEY = 'w$e-!t#+sefiz13ai$65&g)hs^t&#5$6%o$%-r@_khk=r^y(6+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['creto-shop.herokuapp.com']
 
 
 # Application definition
